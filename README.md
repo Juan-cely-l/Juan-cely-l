@@ -15,7 +15,7 @@
   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6E6&center=true&vCenter=true&width=620&lines=Ingeniería+de+Sistemas+·+ECI+·+9no+Semestre;OSINT+%7C+Network+Analysis+%7C+Linux+%7C+Threat+Intel;Blue+Team+→+Red+Team+%7C+Building+in+public;Open+to+Cybersecurity+Internships+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6E6&center=true&vCenter=true&width=620&lines=Ingeniería+de+Sistemas+·+ECI+·+9no+Semestre;OSINT+%7C+Network+Analysis+%7C+Linux+%7C+CTFs;Blue+Team+→+Red+Team+→+Ethical+Hacker;Open+to+Cybersecurity+Internships+🔐)](https://git.io/typing-svg)
 
 <br>
 
@@ -37,19 +37,24 @@
 name     : Juan Esteban Cely López
 role     : Systems Eng. Student · 9th Semester @ ECI
 location : Bogotá, Colombia 🇨🇴
-focus    : Cybersecurity — Blue Team → Red Team
+focus    : Cybersecurity — Blue Team → Red Team → Ethical Hacker
 
 currently:
-  learning  : OSINT · Network Analysis · Linux
+  learning  : OSINT · Network Analysis · Linux · CTFs
   platforms : TryHackMe · HackTheBox
   target    : eJPT Certification (Aug 2026)
   status    : 🟢 Open to internships
 
+goal:
+  phase_1 → Blue Team (threat detection · OSINT · SOC fundamentals)
+  phase_2 → Red Team (exploitation · pentesting methodology)
+  phase_3 → Ethical Hacker (OSCP · professional pentesting)
+
 edge:
   ✦ Evidence-based analytical thinking
-  ✦ Dev background → knows where vulns hide
+  ✦ Dev background → understands attack surfaces from the inside
   ✦ Structured, self-taught learning discipline
-  ✦ Clear technical communication & reporting
+  ✦ Clear technical reporting — writeups & findings documentation
 ```
 
 <br clear="right"/>
@@ -62,22 +67,26 @@ edge:
 
 | Phase | Period | Focus | Status |
 |:-----:|:------:|-------|:------:|
-| **1** | Now → Aug 2026 | Blue Team · OSINT · Networks · Linux · eJPT | 🔵 Active |
-| **2** | Sep 2026 → Feb 2027 | Red Team · Python Scripting · Bug Bounty · OSCP | ⚪ Planned |
+| **1** | Now → Aug 2026 | Blue Team · OSINT · Networks · Linux · Threat Analysis · eJPT | 🔵 Active |
+| **2** | Sep 2026 → Mid 2027 | Red Team · Exploitation · Pentesting Methodology · OSCP Prep | ⚪ Planned |
+| **3** | 2027 → | Ethical Hacker · Professional Pentesting · Bug Bounty · OSCP | ⚪ Planned |
 
 </div>
 
 ```
-NOW ────────────────────────── AUG 2026 ──────── FEB 2027
+NOW ─────────────── AUG 2026 ─────── MID 2027 ────── 2027+
 
 [■■■■■■■■■■░░░░░░]  OSINT & Threat Surface Mapping         ██ Active
 [■■■■■■■■░░░░░░░░]  Network Analysis (Wireshark · TCP/IP)   ██ Active
 [■■■■■■■■■░░░░░░░]  Linux Administration (Kali · Parrot)    ██ Active
+[■■■░░░░░░░░░░░░░]  CTF Practice & Writeups                 🔄 Progress
 [■■■■░░░░░░░░░░░░]  TryHackMe — Jr. Penetration Tester     🔄 Progress
 [■■░░░░░░░░░░░░░░]  HackTheBox — Easy/Medium Machines       🔄 Progress
 [░░░░░░░░░░░░░░░░]  eJPT Certification                      ○ Aug 2026
-[░░░░░░░░░░░░░░░░]  Python Offensive Scripting               ○ Planned
-[░░░░░░░░░░░░░░░░]  OSCP Preparation                         ○ Planned
+[░░░░░░░░░░░░░░░░]  Exploitation & Pentesting Methodology    ○ Phase 2
+[░░░░░░░░░░░░░░░░]  Python Offensive Scripting               ○ Phase 2
+[░░░░░░░░░░░░░░░░]  Bug Bounty (HackerOne · Bugcrowd)        ○ Phase 3
+[░░░░░░░░░░░░░░░░]  OSCP — Offensive Security Certified Pro  ○ Phase 3
 ```
 
 ---
@@ -140,10 +149,10 @@ REST APIs · Audio Sync Engine
 ```
 
 **Security lens:**
-- Session auth for private / public rooms
-- Input sanitization on real-time WebSocket messages
-- Access control & client-side attack surface analysis
-- Secure channel design (WSS over HTTPS)
+- Real-time WebSocket channel → attack surface for message injection
+- Session auth analysis → access control weaknesses in live rooms
+- Input sanitization → XSS & client-side manipulation vectors
+- Recon perspective: mapping public vs. private room exposure
 
 [![Repo](https://img.shields.io/badge/View_on_GitHub-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-cely-l)
 
@@ -164,10 +173,10 @@ Azure · GitHub Actions · API Gateway
 ```
 
 **Security lens:**
-- RBAC — role-based access control (user / admin)
-- API Gateway as centralized perimeter defense
-- CI/CD pipeline with secrets management
-- DevSecOps-applicable patterns
+- RBAC — role-based access control (user / admin separation)
+- API Gateway as single entry point → maps to perimeter attack surface
+- Centralized auth logic → understanding auth bypass scenarios
+- Microservice boundaries → lateral movement analysis perspective
 
 [![Repo](https://img.shields.io/badge/View_on_GitHub-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/daviidc29/colliseum)
 
@@ -187,14 +196,14 @@ Azure · GitHub Actions · API Gateway
 | Network Analysis | `■■■■■■░░░░` 60% | Wireshark · Nmap · TCPdump |
 | Linux Admin | `■■■■■■░░░░` 65% | Kali · Parrot · Bash |
 | Web App Security | `■■■■░░░░░░` 40% | Burp Suite · OWASP Top 10 |
-| Java / Spring Boot | `■■■■■■■░░░` 70% | Spring Boot · REST · Microservices |
-| Python / Scripting | `■■■░░░░░░░` 30% | Learning — In Progress 🔄 |
+| Exploitation Basics | `■■░░░░░░░░` 25% | Metasploit · CTF practice · HackTheBox |
+| Python / Scripting | `■■■░░░░░░░` 30% | Learning — offensive scripting 🔄 |
 
 <br>
 
 ![](https://img.shields.io/badge/eJPT-In_Preparation-1A5276?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![](https://img.shields.io/badge/THM_Jr._Pentester-In_Progress-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![](https://img.shields.io/badge/OSCP-Planned_2027-2E4057?style=for-the-badge&logo=kalilinux&logoColor=white)
+![](https://img.shields.io/badge/OSCP-The_Goal-9FEF00?style=for-the-badge&logo=kalilinux&logoColor=black)
 
 <br>
 
@@ -233,7 +242,7 @@ $ echo "Good food + great music + finding a flag after 3h of enum = perfection �
 
 <div align="center">
 
-<sub><code>Blue Team → Red Team &nbsp;·&nbsp; Building in public &nbsp;·&nbsp; Bogotá, Colombia &nbsp;·&nbsp; 2026</code></sub>
+<sub><code>Blue Team → Red Team → Ethical Hacker &nbsp;·&nbsp; Building in public &nbsp;·&nbsp; Bogotá, Colombia &nbsp;·&nbsp; 2026</code></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1A5276,100:0d1117&height=80&section=footer" />
 
