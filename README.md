@@ -151,19 +151,43 @@ Stack: Java 17 · Spring Boot · MongoDB Atlas
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Juan-cely-l&show_icons=true&bg_color=0d1117&title_color=58A6E6&text_color=C9D1D9&icon_color=58A6E6&border_color=30363D&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-cely-l&layout=compact&bg_color=0d1117&title_color=58A6E6&text_color=C9D1D9&border_color=30363D&hide_border=false&langs_count=8" alt="Top Languages"/>
+<!-- GitHub Trophies — served directly from GitHub CDN, always available -->
+<img src="https://github-profile-trophy.vercel.app/?username=Juan-cely-l&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Juan-cely-l&theme=dark&background=0D1117&border=30363D&ring=58A6E6&fire=58A6E6&currStreakLabel=58A6E6&sideLabels=C9D1D9&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+<!-- Contribution snake — generated as a static file via GitHub Actions, 100% reliable -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <br><br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Juan-cely-l&bg_color=0d1117&color=58A6E6&line=1A5276&point=58A6E6&area=true&area_color=1A5276&hide_border=false&border_color=30363D)
+<!-- Static shields — served by shields.io CDN, never fails -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-1A5276?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<br><br>
+<img src="https://img.shields.io/badge/Learning-TryHackMe_%7C_HackTheBox-1A5276?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<br><br>
+<img src="https://img.shields.io/badge/Target_Cert-eJPT_%7C_Aug_2026-1A5276?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Phase-Blue_Team_Foundation-1A5276?style=for-the-badge&logo=shield&logoColor=white" />
+<br><br>
+<img src="https://img.shields.io/badge/Next-Red_Team_%7C_OSCP-1A5276?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<br><br>
+<img src="https://img.shields.io/badge/Status-Open_to_Internships-27AE60?style=for-the-badge&logo=googlemeet&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
+
+> **⚙️ Nota sobre la contribution snake:** para activarla, crea el workflow `.github/workflows/snake.yml` en tu repositorio de perfil con el [action platane/snk](https://github.com/Platane/snk). Se genera automáticamente cada día y nunca depende de servicios externos.
 
 ---
 
