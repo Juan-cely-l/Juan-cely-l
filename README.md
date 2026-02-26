@@ -151,12 +151,17 @@ Stack: Java 17 · Spring Boot · MongoDB Atlas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juan-cely-l&show_icons=true&theme=transparent&bg_color=0d1117&title_color=1A5276&text_color=C9D1D9&icon_color=1A5276&border_color=1A5276&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-cely-l&layout=compact&theme=transparent&bg_color=0d1117&title_color=1A5276&text_color=C9D1D9&border_color=1A5276" alt="top langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Juan-cely-l&show_icons=true&bg_color=0d1117&title_color=58A6E6&text_color=C9D1D9&icon_color=58A6E6&border_color=30363D&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juan-cely-l&layout=compact&bg_color=0d1117&title_color=58A6E6&text_color=C9D1D9&border_color=30363D&hide_border=false&langs_count=8" alt="Top Languages"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-cely-l&theme=transparent&background=0d1117&ring=1A5276&fire=1A5276&currStreakLabel=1A5276&sideLabels=C9D1D9&dates=C9D1D9&sideNums=FFFFFF&currStreakNum=FFFFFF&border=1A5276" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Juan-cely-l&theme=dark&background=0D1117&border=30363D&ring=58A6E6&fire=58A6E6&currStreakLabel=58A6E6&sideLabels=C9D1D9&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak"/>
+
+<br><br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Juan-cely-l&bg_color=0d1117&color=58A6E6&line=1A5276&point=58A6E6&area=true&area_color=1A5276&hide_border=false&border_color=30363D)
 
 </div>
 
