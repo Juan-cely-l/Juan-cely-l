@@ -1,145 +1,175 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1A5276,100:0d1117&height=120&section=header&text=&fontSize=0" />
+
+</div>
+
+<div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║         Systems Engineer · Cybersecurity Enthusiast          ║
-║                   Blue Team → Red Team                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗███████╗ ██████╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔════╝██╔════╝
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝███████╗█████╗  ██║     
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚════██║██╔══╝  ██║     
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║███████║███████╗╚██████╗
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
 ```
 
-# Juan Esteban Cely López
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3500&pause=800&color=1A5276&center=true&vCenter=true&width=600&lines=Ingeniería+de+Sistemas+·+ECI+·+9no+Semestre;OSINT+%7C+Redes+%7C+Linux+%7C+Análisis+de+Amenazas;Construyendo+mi+camino+Blue+Team+→+Red+Team;Open+to+Internships+in+Cybersecurity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6E6&center=true&vCenter=true&width=620&lines=Ingeniería+de+Sistemas+·+ECI+·+9no+Semestre;OSINT+%7C+Network+Analysis+%7C+Linux+%7C+Threat+Intel;Blue+Team+→+Red+Team+%7C+Building+in+public;Open+to+Cybersecurity+Internships+🔐)](https://git.io/typing-svg)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan--esteban--cely-1A5276?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-cely-233583399)
-[![Email](https://img.shields.io/badge/Email-celyjuanes@gmail.com-1A5276?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celyjuanes@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Bogotá%2C_Colombia-1A5276?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Profile Views](https://komarev.com/ghpvc/?username=Juan-cely-l&style=for-the-badge&color=1A5276&label=PROFILE+VIEWS)](https://github.com/Juan-cely-l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-cely-233583399)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celyjuanes@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Juan-cely-l&style=for-the-badge&color=1A5276&label=VIEWS)](https://github.com/Juan-cely-l)
 
 </div>
 
 ---
 
-## `whoami`
+<img align="right" width="340" src="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+
+## `$ whoami`
 
 ```yaml
-name: Juan Esteban Cely López
-role: Systems Engineering Student (9th Semester) @ ECI
-location: Bogotá, Colombia
-focus: Cybersecurity — Blue Team fundamentals → Red Team path
-languages: [Spanish (native), English (B2)]
+name     : Juan Esteban Cely López
+role     : Systems Eng. Student · 9th Semester @ ECI
+location : Bogotá, Colombia 🇨🇴
+focus    : Cybersecurity — Blue Team → Red Team
 
 currently:
-  - Practicing OSINT, network analysis & Linux @ TryHackMe / HackTheBox
-  - Building a public portfolio of writeups and security reports
-  - Targeting: eJPT certification (August 2026)
-  - Looking for: Professional internship in cybersecurity
+  learning  : OSINT · Network Analysis · Linux
+  platforms : TryHackMe · HackTheBox
+  target    : eJPT Certification (Aug 2026)
+  status    : 🟢 Open to internships
 
-differentials:
-  - Critical & analytical thinking — evidence-based methodology
-  - Clear technical communication (reports, writeups)
-  - Software dev background → understands where vulnerabilities live
-  - Self-taught discipline with structured learning paths
+edge:
+  ✦ Evidence-based analytical thinking
+  ✦ Dev background → knows where vulns hide
+  ✦ Structured, self-taught learning discipline
+  ✦ Clear technical communication & reporting
 ```
+
+<br clear="right"/>
 
 ---
 
-## `cat ~/roadmap.txt`
-
-```
-PHASE 1  ·  NOW → AUG 2026         ████████████░░░░░░░░  Blue Team Foundation
-  ✔ OSINT & threat surface mapping
-  ✔ Network analysis (TCP/IP, Wireshark, subnetting)
-  ✔ Linux administration (Kali, Parrot OS)
-  ◉ TryHackMe — Jr. Penetration Tester path  [In Progress]
-  ◉ HackTheBox — Easy/Medium machines         [In Progress]
-  ○ eJPT Certification                        [Target: Aug 2026]
-
-PHASE 2  ·  SEP 2026 → FEB 2027    ░░░░░░░░░░░░░░░░░░░░  Red Team Transition
-  ○ HTB Pro Labs (Offshore, RastaLabs)
-  ○ Python offensive scripting
-  ○ Bug Bounty (HackerOne / Bugcrowd)
-  ○ OSCP Preparation
-```
-
----
-
-## `ls ~/skills/`
+## `$ cat roadmap.sh`
 
 <div align="center">
 
-### ◈ Cybersecurity
-![OSINT](https://img.shields.io/badge/OSINT-1A5276?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1A5276?style=flat-square&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BD2?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-1A5276?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-1A5276?style=flat-square&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+| Phase | Period | Focus | Status |
+|:-----:|:------:|-------|:------:|
+| **1** | Now → Aug 2026 | Blue Team · OSINT · Networks · Linux · eJPT | 🔵 Active |
+| **2** | Sep 2026 → Feb 2027 | Red Team · Python Scripting · Bug Bounty · OSCP | ⚪ Planned |
 
-### ◈ Development
-![Java](https://img.shields.io/badge/Java-1A5276?style=flat-square&logo=openjdk&logoColor=white)
+</div>
+
+```
+NOW ────────────────────────── AUG 2026 ──────── FEB 2027
+
+[■■■■■■■■■■░░░░░░]  OSINT & Threat Surface Mapping         ██ Active
+[■■■■■■■■░░░░░░░░]  Network Analysis (Wireshark · TCP/IP)   ██ Active
+[■■■■■■■■■░░░░░░░]  Linux Administration (Kali · Parrot)    ██ Active
+[■■■■░░░░░░░░░░░░]  TryHackMe — Jr. Penetration Tester     🔄 Progress
+[■■░░░░░░░░░░░░░░]  HackTheBox — Easy/Medium Machines       🔄 Progress
+[░░░░░░░░░░░░░░░░]  eJPT Certification                      ○ Aug 2026
+[░░░░░░░░░░░░░░░░]  Python Offensive Scripting               ○ Planned
+[░░░░░░░░░░░░░░░░]  OSCP Preparation                         ○ Planned
+```
+
+---
+
+## `$ ls skills/`
+
+<div align="center">
+
+**— Cybersecurity —**
+
+![OSINT](https://img.shields.io/badge/OSINT-1A5276?style=flat-square&logo=buffer&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BD2?style=flat-square&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1A5276?style=flat-square&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-1A5276?style=flat-square&logo=target&logoColor=white)
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-1A5276?style=flat-square&logo=shield&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-1A5276?style=flat-square&logo=cisco&logoColor=white)
+
+**— Development —**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 
-### ◈ Infrastructure & Tools
+**— Infrastructure —**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 </div>
 
 ---
 
-## `ls ~/projects/ --detail`
+## `$ cat projects.json`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔒 JamRoom
+<div align="center">
+
+### 🔐 JamRoom
+
+</div>
+
 **Real-time synchronized music platform**
 
 ```
-Stack: Node.js · WebSockets · JavaScript
-       REST APIs · Audio Sync Engine
+Node.js · WebSockets · JavaScript
+REST APIs · Audio Sync Engine
 ```
 
-> **Security angle:** Designed session authentication for private/public rooms, input sanitization for real-time client messages, and secure WebSocket channels — exploring access control and client-side attack surface in real-time web applications.
+**Security lens:**
+- Session auth for private / public rooms
+- Input sanitization on real-time WebSocket messages
+- Access control & client-side attack surface analysis
+- Secure channel design (WSS over HTTPS)
 
-[![Repo](https://img.shields.io/badge/View_Repo-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-cely-l)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-cely-l)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔒 Colliseum
-**Microservice for institutional equipment management**
+<div align="center">
+
+### 🔐 Colliseum
+
+</div>
+
+**Microservice for institutional resource management**
 
 ```
-Stack: Java 17 · Spring Boot · MongoDB Atlas
-       Azure · GitHub Actions · API Gateway
+Java 17 · Spring Boot · MongoDB Atlas
+Azure · GitHub Actions · API Gateway
 ```
 
-> **Security angle:** Implemented RBAC (role-based access control) separating user/admin permissions, centralized API Gateway as perimeter defense point, and CI/CD pipeline with secrets management — applicable patterns to DevSecOps environments.
+**Security lens:**
+- RBAC — role-based access control (user / admin)
+- API Gateway as centralized perimeter defense
+- CI/CD pipeline with secrets management
+- DevSecOps-applicable patterns
 
-[![Repo](https://img.shields.io/badge/View_Repo-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/daviidc29/colliseum)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/daviidc29/colliseum)
 
 </td>
 </tr>
@@ -147,51 +177,38 @@ Stack: Java 17 · Spring Boot · MongoDB Atlas
 
 ---
 
-## `cat ~/stats.json`
+## `$ cat metrics.log`
 
 <div align="center">
 
-<!-- GitHub Trophies — served directly from GitHub CDN, always available -->
-<img src="https://github-profile-trophy.vercel.app/?username=Juan-cely-l&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+| Domain | Level | Tools |
+|--------|:-----:|-------|
+| OSINT & Recon | `■■■■■■■░░░` 70% | Maltego · Google Dorks · Shodan |
+| Network Analysis | `■■■■■■░░░░` 60% | Wireshark · Nmap · TCPdump |
+| Linux Admin | `■■■■■■░░░░` 65% | Kali · Parrot · Bash |
+| Web App Security | `■■■■░░░░░░` 40% | Burp Suite · OWASP Top 10 |
+| Java / Spring Boot | `■■■■■■■░░░` 70% | Spring Boot · REST · Microservices |
+| Python / Scripting | `■■■░░░░░░░` 30% | Learning — In Progress 🔄 |
 
-<br><br>
+<br>
 
-<!-- Contribution snake — generated as a static file via GitHub Actions, 100% reliable -->
+![](https://img.shields.io/badge/eJPT-In_Preparation-1A5276?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![](https://img.shields.io/badge/THM_Jr._Pentester-In_Progress-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![](https://img.shields.io/badge/OSCP-Planned_2027-2E4057?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Juan-cely-l/Juan-cely-l/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<br><br>
-
-<!-- Static shields — served by shields.io CDN, never fails -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-1A5276?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Learning-TryHackMe_%7C_HackTheBox-1A5276?style=for-the-badge&logo=tryhackme&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Target_Cert-eJPT_%7C_Aug_2026-1A5276?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Phase-Blue_Team_Foundation-1A5276?style=for-the-badge&logo=shield&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Next-Red_Team_%7C_OSCP-1A5276?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/Status-Open_to_Internships-27AE60?style=for-the-badge&logo=googlemeet&logoColor=white" />
-</td>
-</tr>
-</table>
-
 </div>
-
-> **⚙️ Nota sobre la contribution snake:** para activarla, crea el workflow `.github/workflows/snake.yml` en tu repositorio de perfil con el [action platane/snk](https://github.com/Platane/snk). Se genera automáticamente cada día y nunca depende de servicios externos.
 
 ---
 
-## `echo $CONTACT`
+## `$ echo $CONTACT`
 
 <div align="center">
 
@@ -200,14 +217,14 @@ Stack: Java 17 · Spring Boot · MongoDB Atlas
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-1A5276?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-cely-233583399)
-[![Email](https://img.shields.io/badge/Send_me_an_email-1A5276?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celyjuanes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-esteban-cely-233583399)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celyjuanes@gmail.com)
 
 <br>
 
-```
-⚡  Fun fact: good food and great music 🎵 make everything better.
-    And so does finding a flag after 3 hours of enumeration.
+```bash
+$ echo "Good food + great music + finding a flag after 3h of enum = perfection 🎵🔐"
 ```
 
 </div>
@@ -215,7 +232,38 @@ Stack: Java 17 · Spring Boot · MongoDB Atlas
 ---
 
 <div align="center">
-<sub>
-<code>Blue Team → Red Team · Building in public · Bogotá, Colombia · 2026</code>
-</sub>
+
+<sub><code>Blue Team → Red Team &nbsp;·&nbsp; Building in public &nbsp;·&nbsp; Bogotá, Colombia &nbsp;·&nbsp; 2026</code></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1A5276,100:0d1117&height=80&section=footer" />
+
 </div>
+
+<!--
+════════════════════════════════════════
+⚙️  SNAKE SETUP — one-time configuration
+════════════════════════════════════════
+Create file: .github/workflows/snake.yml
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Juan-cely-l
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
