@@ -182,6 +182,38 @@ Azure · GitHub Actions · API Gateway
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+<div align="center">
+
+### ⚔️ BreachCraft — *Romper para entender, construir para asegurar*
+
+</div>
+
+**Offensive security lab — controlled asset compromise on TryHackMe & HackTheBox**
+
+```
+Python · Bash · Kali Linux
+TryHackMe · HackTheBox · CTF Environments
+```
+
+**Security lens:**
+- Documented attack chains → SQL Injection · SMB · FTP · MySQL · Redis enumeration
+- Python automation → offensive scripting for recon & exploitation workflows
+- Structured writeups → technical findings documented at a professional level
+- Defensive pivot → each compromise mapped to its detection & mitigation vector
+
+> ⚠️ *Exclusively educational & ethical research. All tests performed in controlled CTF/lab environments with explicit platform consent. Unauthorized access to systems is illegal.*
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-cely-l/BreachCraft)
+&nbsp;
+![](https://img.shields.io/badge/6_Writeups-Active-red?style=flat-square&logo=bookstack&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/THM%2FHTB-Controlled_Env-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
