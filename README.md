@@ -15,7 +15,7 @@
   ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6E6&center=true&vCenter=true&width=620&lines=Ingeniería+de+Sistemas+·+ECI+·+9no+Semestre;OSINT+%7C+Network+Analysis+%7C+Linux+%7C+CTFs;Blue+Team+→+Red+Team+→+Ethical+Hacker;Open+to+Cybersecurity+Internships+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=900&color=58A6E6&center=true&vCenter=true&width=760&lines=Ingeniería+de+Sistemas+·+ECI+·+9no+Semestre;Cybersecurity+%7C+Software+Development+%7C+ML%2FData+Projects;Blue+Team+→+Red+Team+%7C+Python+%7C+AWS+%7C+RAG;Open+to+Internships+🔐)](https://git.io/typing-svg)
 
 <br>
 
@@ -37,11 +37,11 @@
 name     : Juan Esteban Cely López
 role     : Systems Eng. Student · 9th Semester @ ECI
 location : Bogotá, Colombia 🇨🇴
-focus    : Cybersecurity — Blue Team → Red Team → Ethical Hacker
+focus    : Cybersecurity · Software Development · ML/Data Engineering Projects
 
 currently:
-  learning  : OSINT · Network Analysis · Linux · CTFs
-  platforms : TryHackMe · HackTheBox
+  learning  : OSINT · Network Analysis · Linux · CTFs · ML/Data Systems
+  platforms : TryHackMe · HackTheBox · AWS SageMaker · Python
   target    : eJPT Certification (Aug 2026)
   status    : 🟢 Open to internships
 
@@ -53,6 +53,7 @@ goal:
 edge:
   ✦ Evidence-based analytical thinking
   ✦ Dev background → understands attack surfaces from the inside
+  ✦ Hands-on ML/data pipeline and cloud deployment experience
   ✦ Structured, self-taught learning discipline
   ✦ Clear technical reporting — writeups & findings documentation
 ```
@@ -73,7 +74,7 @@ edge:
 
 </div>
 
-```
+```bash
 NOW ─────────────── AUG 2026 ─────── MID 2027 ────── 2027+
 
 [■■■■■■■■■■░░░░░░]  OSINT & Threat Surface Mapping         ██ Active
@@ -116,6 +117,17 @@ NOW ─────────────── AUG 2026 ───────
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
 
+**— ML / Data —**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1A5276?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-6A5ACD?style=flat-square&logo=databricks&logoColor=white)
+
 **— Infrastructure —**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -143,7 +155,7 @@ NOW ─────────────── AUG 2026 ───────
 
 **Real-time synchronized music platform**
 
-```
+```bash
 Node.js · WebSockets · JavaScript
 REST APIs · Audio Sync Engine
 ```
@@ -167,7 +179,7 @@ REST APIs · Audio Sync Engine
 
 **Microservice for institutional resource management**
 
-```
+```bash
 Java 17 · Spring Boot · MongoDB Atlas
 Azure · GitHub Actions · API Gateway
 ```
@@ -193,7 +205,7 @@ Azure · GitHub Actions · API Gateway
 
 **Offensive security lab — controlled asset compromise on TryHackMe & HackTheBox**
 
-```
+```bash
 Python · Bash · Kali Linux
 TryHackMe · HackTheBox · CTF Environments
 ```
@@ -211,6 +223,56 @@ TryHackMe · HackTheBox · CTF Environments
 ![](https://img.shields.io/badge/6_Writeups-Active-red?style=flat-square&logo=bookstack&logoColor=white)
 &nbsp;
 ![](https://img.shields.io/badge/THM%2FHTB-Controlled_Env-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ❤️ Heart Disease Risk Prediction
+
+</div>
+
+**End-to-end ML pipeline with AWS SageMaker deployment**
+
+```bash
+Python · NumPy · Pandas · Logistic Regression
+EDA · AWS SageMaker · S3
+```
+
+**ML/data lens:**
+- Built an end-to-end pipeline: loading, EDA, normalization, train/test split
+- Implemented Logistic Regression from scratch with vectorized gradient descent and L2 regularization
+- Deployed a real-time inference endpoint on AWS SageMaker with a custom inference handler
+- Added visualizations and model interpretation for non-technical communication
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-cely-l/Heart-Disease-Risk-Prediction)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🤖 RAG con Pinecone + OpenAI
+
+</div>
+
+**RAG pipeline with embeddings, vector search, and LLM grounding**
+
+```bash
+Python · LangChain · OpenAI · Pinecone
+Embeddings · Vector Database · RAG
+```
+
+**ML/data lens:**
+- Built a retrieval-augmented generation pipeline from raw documents to queryable context
+- Generated embeddings, indexed them in Pinecone, and connected retrieval to an LLM chain
+- Focused on grounded answers and insufficient-context handling to reduce hallucinations
+- Explored practical GenAI engineering workflows across ingestion, retrieval, and response generation
+
+[![Repo](https://img.shields.io/badge/View_on_GitHub-1A5276?style=flat-square&logo=github&logoColor=white)](https://github.com/Juan-cely-l/RAG-con-Pinecone-OpenAI)
 
 </td>
 </tr>
@@ -253,8 +315,8 @@ TryHackMe · HackTheBox · CTF Environments
 
 <div align="center">
 
-*Busco prácticas profesionales en ciberseguridad — disponible de inmediato.*
-*Open to cybersecurity internships — available immediately.*
+*Busco prácticas profesionales en ciberseguridad, software o ML/data engineering — disponible de inmediato.*  
+*Open to internships in cybersecurity, software, or ML/data engineering — available immediately.*
 
 <br>
 
@@ -274,7 +336,7 @@ $ echo "Good food + great music + finding a flag after 3h of enum = perfection �
 
 <div align="center">
 
-<sub><code>Blue Team → Red Team → Ethical Hacker &nbsp;·&nbsp; Building in public &nbsp;·&nbsp; Bogotá, Colombia &nbsp;·&nbsp; 2026</code></sub>
+<sub><code>Cybersecurity &nbsp;·&nbsp; Software Development &nbsp;·&nbsp; ML/Data Projects &nbsp;·&nbsp; Bogotá, Colombia &nbsp;·&nbsp; 2026</code></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1A5276,100:0d1117&height=80&section=footer" />
 
